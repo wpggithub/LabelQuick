@@ -1,0 +1,5 @@
+0 stand
+1 lie
+2 eat
+3 drink
+4 lick
